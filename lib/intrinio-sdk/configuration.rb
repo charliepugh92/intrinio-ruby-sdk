@@ -10,7 +10,7 @@ Swagger Codegen version: unset
 
 =end
 
-require 'uri'
+require 'addressable/uri'
 
 module Intrinio
   class Configuration
